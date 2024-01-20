@@ -10,15 +10,6 @@ body {
     background-color: #f0f0f0;
 }
 
-/* #container {
- 
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    background-color: #f0f0f0;
-} */
-
 @media (max-width: 600px) {
     /* Adjust styles for smaller screens (e.g., phones) */
     #gifContainer {
@@ -46,7 +37,7 @@ body {
     font-size: 16px;
     border: none;
     margin-left: 200px;
-    margin-top: 250px;
+    margin-top: 300px;
 }
 
 #yesButton{
@@ -59,7 +50,7 @@ body {
     font-size: 16px;
     border: none;
     margin-right: 200px;
-    margin-top: 250px;
+    margin-top: 300px;
 }
 
 #happy{
@@ -68,6 +59,7 @@ body {
 }
 
 #h1{
-    font-size: 20px;
+    font-size: 15px;
     display: none;
+    margin-left: 20px;
 }
